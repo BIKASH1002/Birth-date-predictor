@@ -1,5 +1,5 @@
 # Birth-date-predictor
-Gives birth date by showing some matrix
+Predicts birth date by showing some matrix data
 #include<iostream>
 #include<math.h>
 using namespace std;
